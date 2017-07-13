@@ -1,3 +1,3 @@
 # JDMobile
 webapp
-A demo for m.jd.com
+京东手机端首页。
